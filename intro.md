@@ -8,3 +8,4 @@ The aim is to create a world-class enterprise document Q&A system.
 -AI-powered question answering 
 
 This is a practice change for Git revision
+it's fun working on git and learning 
