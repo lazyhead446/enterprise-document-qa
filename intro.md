@@ -6,3 +6,5 @@ The aim is to create a world-class enterprise document Q&A system.
 -Accurate answers with citations
 -Interlligent document indexing
 -AI-powered question answering 
+
+This is a practice change for Git revision
